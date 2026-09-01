@@ -1,0 +1,1 @@
+extern void calcProp(double* prop, long* TYPE, long ntype, long* index, long index_len);
