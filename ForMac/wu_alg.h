@@ -1,0 +1,1 @@
+double calc_Wu(long* TYPE, long* ntype);
